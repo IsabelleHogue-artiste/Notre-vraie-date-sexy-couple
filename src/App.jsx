@@ -272,7 +272,9 @@ function Cover({ onStart }) {
       </div>
       <div style={styles.coverContent}>
         <p style={styles.coverEyebrow}>S'explorons-nous présente</p>
-        <h1 style={styles.coverTitle}>
+      <h1 style={styles.coverTitle}>
+          Notre rendez-vous <span style={{ fontStyle: "italic", fontWeight: 500 }}>vraiment sexy</span>
+        </h1>
           Notre <span style={{ fontStyle: "italic", fontWeight: 500 }}>moment</span>
         </h1>
         <div style={styles.coverDivider} />
